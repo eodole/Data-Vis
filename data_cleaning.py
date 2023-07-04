@@ -1,5 +1,6 @@
 import pandas as pd 
 import re 
+import packed_bubbles
 
 ai_keywords = ["artificial intellege","machine learning", "\sml\s|\.", "\sai\s|\." ]
 
